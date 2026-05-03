@@ -1,5 +1,5 @@
 # Project 3
-Game Technologies 2026
+Game Technology 2026
 
 Game made by Luke Trombley
 
